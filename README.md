@@ -35,6 +35,8 @@
 
 ### Sector - <a href="https://github.com/NBC-Unity-TeamProject/DontPissMeOff/wiki/Sector">WIKI 이동</a>
 
+### Event - <a href="https://github.com/NBC-Unity-TeamProject/DontPissMeOff/wiki/Event">WIKI 이동</a>
+
 ### UI - <a href="https://github.com/NBC-Unity-TeamProject/DontPissMeOff/wiki/UI">WIKI 이동</a>
 
 ### Weapon - <a href="https://github.com/NBC-Unity-TeamProject/DontPissMeOff/wiki/Weapon">WIKI 이동</a>
