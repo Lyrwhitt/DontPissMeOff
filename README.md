@@ -41,6 +41,8 @@
 
 ### Weapon - <a href="https://github.com/NBC-Unity-TeamProject/DontPissMeOff/wiki/Weapon">WIKI 이동</a>
 
+### Guide - <a href="https://github.com/NBC-Unity-TeamProject/DontPissMeOff/wiki/Guide">WIKI 이동</a>
+
 
 
 
