@@ -23,18 +23,24 @@
 📖[발음주의 18조 팀 노션](https://teamsparta.notion.site/18-003e0514b2b84461b781fbb5d0a2fe54)
 
 ## 📌 Main Functions
-### GameManager - < >상세보기 - WIKI 이동</a>
+### Boss - <a href="https://github.com/NBC-Unity-TeamProject/DontPissMeOff/wiki/Boss">상세보기 - WIKI 이동</a>
 
-### Player - < >상세보기 - WIKI 이동</a>
+### Enemy - < a href="https://github.com/NBC-Unity-TeamProject/DontPissMeOff/wiki/Enemy">상세보기 - WIKI 이동</a>
 
-### Enemy - < >상세보기 - WIKI 이동</a>
+### Manager - <a href="https://github.com/NBC-Unity-TeamProject/DontPissMeOff/wiki/Manager" >상세보기 - WIKI 이동</a>
 
-### UI - < >상세보기 - WIKI 이동</a>
+### Player - <a href="https://github.com/NBC-Unity-TeamProject/DontPissMeOff/wiki/Player" >상세보기 - WIKI 이동</a>
 
-### Boss - <>상세보기 - WIKI 이동</a>
+### Save - < a href="https://github.com/NBC-Unity-TeamProject/DontPissMeOff/wiki/Save">상세보기 - WIKI 이동</a>
 
-### Weapon - < >상세보기 - WIKI 이동</a>
+### Sector - < a href="https://github.com/NBC-Unity-TeamProject/DontPissMeOff/wiki/Sector">상세보기 - WIKI 이동</a>
 
-### Sector - < >상세보기 - WIKI 이동</a>
+### UI - < a href="https://github.com/NBC-Unity-TeamProject/DontPissMeOff/wiki/UI">상세보기 - WIKI 이동</a>
 
-### Save - < >상세보기 - WIKI 이동</a>
+### Weapon - < a href="https://github.com/NBC-Unity-TeamProject/DontPissMeOff/wiki/Weapon">상세보기 - WIKI 이동</a>
+
+
+
+
+
+
