@@ -27,7 +27,7 @@
 
 ### Enemy - <a href="https://github.com/NBC-Unity-TeamProject/DontPissMeOff/wiki/Enemy">WIKI 이동</a>
 
-### Manager - <a href="https://github.com/NBC-Unity-TeamProject/DontPissMeOff/wiki/Manager" >IKI 이동</a>
+### Manager - <a href="https://github.com/NBC-Unity-TeamProject/DontPissMeOff/wiki/Manager" >WIKI 이동</a>
 
 ### Player - <a href="https://github.com/NBC-Unity-TeamProject/DontPissMeOff/wiki/Player" >WIKI 이동</a>
 
