@@ -43,7 +43,7 @@
 
 ### Guide - <a href="https://github.com/NBC-Unity-TeamProject/DontPissMeOff/wiki/Guide">WIKI 이동</a>
 
-### etc - <a href="https://github.com/NBC-Unity-TeamProject/DontPissMeOff/wiki/etc">WIKI 이동</a>
+### other - <a href="https://github.com/NBC-Unity-TeamProject/DontPissMeOff/wiki/other">WIKI 이동</a>
 
 
 
